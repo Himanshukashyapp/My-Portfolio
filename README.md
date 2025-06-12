@@ -1,8 +1,10 @@
 # My-Portfolio
 
-# netlify link
+netlify link
 (https://684a8323a26b61ef9cad5280--enchanting-klepon-c19e31.netlify.app/)
-Features
+
+
+# Features
 
 
 ✅ Responsive Design – Fully optimized for different screen sizes (desktop, tablet, and mobile).
