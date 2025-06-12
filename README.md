@@ -1,4 +1,7 @@
 # My-Portfolio
+
+# netlify link
+
 Features
 
 
@@ -16,7 +19,7 @@ Features
 
 
 
-Tech Stack
+# Tech Stack
 
 
 
@@ -29,3 +32,7 @@ JavaScript (Vanilla JS) – Adding interactivity
 FontAwesome & Google Fonts – Enhancing the visual appeal
 
 web3Forms – Handling form submissions
+
+
+
+
